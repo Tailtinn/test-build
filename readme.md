@@ -1,2 +1,2 @@
 # Test Links
-[click](./releases)
+[click](../../releases)
