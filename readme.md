@@ -1,0 +1,2 @@
+# Test Links
+[click](./releases)
